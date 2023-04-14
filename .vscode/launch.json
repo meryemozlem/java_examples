@@ -5,6 +5,34 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "average",
+            "request": "launch",
+            "mainClass": "ondort_mart.average",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "MinOfTree",
+            "request": "launch",
+            "mainClass": "ondort_mart.MinOfTree",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "guessing",
+            "request": "launch",
+            "mainClass": "ondort_mart.guessing",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "CoinFlip",
+            "request": "launch",
+            "mainClass": "ondort_mart.CoinFlip",
+            "projectName": "java_360d4cf3"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
