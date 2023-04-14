@@ -1,0 +1,167 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "addition",
+            "request": "launch",
+            "mainClass": "on_mart.addition",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "piano_keys",
+            "request": "launch",
+            "mainClass": "on_mart.piano_keys",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "roses",
+            "request": "launch",
+            "mainClass": "on_mart.roses",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "age",
+            "request": "launch",
+            "mainClass": "ondort_mart.age",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "wages",
+            "request": "launch",
+            "mainClass": "ondort_mart.wages",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "Beatles",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.Beatles",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "GradeReport",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.GradeReport",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeTester",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.PalindromeTester",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "TekSayilarinToplami",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.TekSayilarinToplami",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "URLDissector",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.URLDissector",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "deneme",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.deneme",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.hello",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "odev2",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.odev2",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "odev4",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.odev4",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "quick",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.quick",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "summing_digits_number",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.summing_digits_number",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "yirmibir_nisan.test",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "lincoln",
+            "request": "launch",
+            "mainClass": "yirmisekiz_subat.lincoln",
+            "projectName": "java_360d4cf3"
+        }
+    ]
+}
