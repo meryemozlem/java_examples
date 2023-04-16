@@ -16,7 +16,7 @@ public class Coin {
     public boolean isHeads(){
         return (face==HEADS);
     }
-
+// toString methodu ile coinin yüzünü yazdırıyoruz. içindeki değerlerin isimlerini yazdırıyoruz.*****
     public String toString(){
         String faceName;
         if(face==HEADS)

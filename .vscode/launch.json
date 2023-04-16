@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.EvenOdd",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "ciktilar",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.ciktilar",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "Stars",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.Stars",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "Multiples",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.Multiples",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.ReverseNumber",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
             "name": "average",
             "request": "launch",
             "mainClass": "ondort_mart.average",
