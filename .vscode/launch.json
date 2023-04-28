@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stringMutation",
+            "request": "launch",
+            "mainClass": "dort_nisan.stringMutation",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "example3",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.example3",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "example2",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.example2",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.example",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "transaction",
+            "request": "launch",
+            "mainClass": "yirmisekiz_mart.bank_account.transaction",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
             "name": "EvenOdd",
             "request": "launch",
             "mainClass": "yirmisekiz_mart.EvenOdd",
