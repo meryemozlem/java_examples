@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "gradeRange",
+            "request": "launch",
+            "mainClass": "onbir_nisan.gradeRange",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "primes",
+            "request": "launch",
+            "mainClass": "onbir_nisan.primes",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "reverseOrder",
+            "request": "launch",
+            "mainClass": "onbir_nisan.reverseOrder",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "RollingDice",
+            "request": "launch",
+            "mainClass": "dort_nisan.c_example.RollingDice",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "iceCream",
+            "request": "launch",
+            "mainClass": "dort_nisan.iceCream",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "circleStats",
+            "request": "launch",
+            "mainClass": "dort_nisan.circleStats",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "purchase",
+            "request": "launch",
+            "mainClass": "dort_nisan.purchase",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "quadratic",
+            "request": "launch",
+            "mainClass": "dort_nisan.quadratic",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
+            "name": "comparing",
+            "request": "launch",
+            "mainClass": "dort_nisan.comparing",
+            "projectName": "java_360d4cf3"
+        },
+        {
+            "type": "java",
             "name": "stringMutation",
             "request": "launch",
             "mainClass": "dort_nisan.stringMutation",
